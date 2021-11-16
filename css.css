@@ -1,0 +1,10 @@
+body {
+    background-image: "images/inTheHills.JPG"
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+    color: #black;
+    margin: 2vw;
+    border: 1px solid red;
+  }
